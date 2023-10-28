@@ -3,7 +3,7 @@ Simulation subject within the Multimedia Engineering degree from the ETSE - Univ
 
 🎞️ Video with the result: [https://www.youtube.com/watch?v=I4HdElsF9WA&list=PLSuDG4mVIcvdQo-eBHfHp6HFdvB0oJLz5&index=9](https://www.youtube.com/watch?v=nMO0zRflZ7I)
  
-For the second exercise, the simulation of the sea has been carried out in two situations:
+The simulation of the sea has been carried out in two situations:
 - A day of good weather, that is, with the sea calm.
 - A stormy day, with busy seas.
 All of this has been achieved by slightly modifying the first part of the practice. In addition, after eliminating the WaveRadial and WaveGerstner classes, as they will not be used, a background image has been added.
