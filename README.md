@@ -7,7 +7,9 @@ The simulation of the sea has been carried out in two situations:
 - A day of good weather, that is, with the sea calm.
 - A stormy day, with busy seas.
 
-All of this has been achieved by slightly modifying the first part of the practice. In addition, after eliminating the WaveRadial and WaveGerstner classes, as they will not be used, a background image has been added. The interface has also been modified.
+All of this has been achieved by slightly modifying the first part of the practice. In addition, after eliminating the WaveRadial and WaveGerstner classes, as they will not be used, a background image has been added.
 
 ## Project setup
-By pressing key 1, the user will add 5 waves with certain parameters that will cause a busy sea, as if it were a stormy day. By pressing key 2, the user will add 3 waves with other parameters that will cause a calmer sea.
+The interface has also been modified:
+- By pressing key 1, the user will add 5 waves with certain parameters that will cause a busy sea, as if it were a stormy day.
+- By pressing key 2, the user will add 3 waves with other parameters that will cause a calmer sea.
