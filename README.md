@@ -1,4 +1,4 @@
-﻿# Practice 5, exercise 2: busy sea and calm sea. Simulation.
+﻿# Practice 5, exercise 2: busy and calm sea. Simulation.
 Simulation subject within the Multimedia Engineering degree from the ETSE - Universitat de València. May 2022. Practice 5, exercise 2. Rating 7,5. The sea must be simulated on a calm day and a stormy day.
 
 🎞️ Video with the result: [https://www.youtube.com/watch?v=I4HdElsF9WA&list=PLSuDG4mVIcvdQo-eBHfHp6HFdvB0oJLz5&index=9](https://www.youtube.com/watch?v=nMO0zRflZ7I)
